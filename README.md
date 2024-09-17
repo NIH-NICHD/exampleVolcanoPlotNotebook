@@ -15,3 +15,7 @@ wget https://zenodo.org/record/7510587/files/deseq2_5k.csv
 ```
 
 Finally one more edit so we can be out of sync for the lesson today.
+
+
+Learn about Zenodo here: https://zenodo.org
+Please refer to VolcanoPlot for more information
